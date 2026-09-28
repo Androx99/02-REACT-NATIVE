@@ -13,4 +13,4 @@ Para que si hubiera un problema siempre quedara un margen de separacion
 - He modificado los valores del grid para eliminar los porcentajes y se asemeje mas a la muestra y ademas he añadido, el apartado de Tickets y modificado colores para que se asemeje mas a la muestra.
 
 ## Resultado
-Explica brevemente cómo ha quedado la interfaz.
+5 grids con los colores de las muestras.
